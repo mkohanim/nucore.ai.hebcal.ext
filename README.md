@@ -2,6 +2,8 @@
 
 A NuCore.AI extension that provides Hebrew calendar functionality.
 
+This extension plugs into [nucore.ai](https://github.com/NuCoreAI/nucore-ai) and extends its features to support Jewish calendars.
+
 ## Features
 
 - Hebrew date conversion support
